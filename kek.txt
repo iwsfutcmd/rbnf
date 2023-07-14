@@ -1,0 +1,112 @@
+%%root:
+1: jun;
+2: kab’;
+3: ox;
+4: kaa;
+5: o’;
+6: waq;
+7: wuq;
+8: waqxaq;
+9: b’elee;
+
+%%one-off:
+1: ka’;
+2: ox;
+3: kaa;
+4: o’;
+5: waq;
+6: wuq;
+7: waqxaq;
+8: b’elee;
+9: laju;
+10: >>laju;
+11: kab’laju;
+12: >>laju;
+
+%%one-off-poss:
+1: x=%%one-off=;
+2: r=%%one-off=;
+3: x=%%one-off=;
+4: r=%%one-off=;
+5: x=%%one-off=;
+12: r=%%one-off=;
+13: x=%%one-off=;
+14: r=%%one-off=;
+15: x=%%one-off=;
+
+%%kaal-series:
+1: <%%one-off-poss<k’aal;
+
+%%kaal:
+1: <%%root<k’aal;
+2: ka’k’aal;
+3: <%%root<k’aal;
+10/20: <%spellout-numbering<k’aal;
+
+%%oqob-series:
+1: <%%one-off-poss<o’q’ob’;
+3: xkaaho’q’ob’;
+4: <%%one-off-poss<o’q’ob’;
+
+%%oqob:
+1: o’q’ob’;
+2: <%%root<o’q’ob’;
+4: kaaho’q’ob’;
+5: <%%root<o’q’ob’;
+9: b’eleeho’q’ob’;
+10: lajeeho’q’ob’;
+11/20: <%spellout-numbering< o’q’ob’;
+
+%spellout-numbering:
+1: jun;
+2: kiib’;
+3: oxib’;
+4: kaahib’;
+5: oob’;
+6: waqib’;
+7: wuqub’;
+8: waqxaqib’;
+9: b’eleeb’;
+10: lajeeb’;
+11: >%%root>laju;
+20: jun may;
+21/20: >> <%%kaal-series<;
+40/20: <%%kaal<;
+41/20: >> <%%kaal-series<;
+181/20: >> ro’tuuk;
+200/20: o’tuuk;
+201/20: >> <%%kaal-series<;
+220/20: <%%kaal<;
+221/20: >> <%%kaal-series<;
+381/20: >> ro’q’ob’;
+400/20: <%%oqob<;
+401/20: >> <%%oqob-series<;
+7601/20: >> xchuy;
+8000/20: jun chuy;
+8001/20: >> <%%one-off-poss<chuy;
+
+%spellout-ordinal:
+1: xb’een;
+2: x=%%root=;
+3: r=%%root=;
+4: x=%%root=;
+5: r=%%root=;
+6: x=%%root=;
+9: xb’ele;
+10: xlaje;
+11: x=%spellout-numbering=hil;
+20: =%spellout-numbering=;
+
+%spellout-distributive:
+1: junjunq;
+2: ka’kab’;
+3: oxox;
+4: kaaka;
+5: o’otq;
+6: waqitq;
+7: wuqutq;
+8: waqxaqitq;
+9: b’eleetq;
+10: lajeetq;
+11: >%%root>taqlaju;
+20: =%spellout-numbering=;

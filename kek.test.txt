@@ -1,0 +1,69 @@
+1	jun
+2	kiib’
+3	oxib’
+4	kaahib’
+5	oob’
+6	waqib’
+7	wuqub’
+8	waqxaqib’
+9	b’eleeb’
+10	lajeeb’
+11	junlaju
+12	kab’laju
+13	oxlaju
+14	kaalaju
+15	o’laju
+16	waqlaju
+17	wuqlaju
+18	waqxaqlaju
+19	b’eleelaju
+20	jun may
+40	ka’k’aal
+60	oxk’aal
+80	kaak’aal
+100	o’k’aal
+120	waqk’aal
+140	wuqk’aal
+160	waqxaqk’aal
+180	b’eleek’aal
+200	o’tuuk
+220	junlajuk’aal
+240	kab’lajuk’aal
+260	oxlajuk’aal
+280	kaalajuk’aal
+300	o’lajuk’aal
+320	waqlajuk’aal
+340	wuqlajuk’aal
+360	waqxaqlajuk’aal
+380	b’eleelajuk’aal
+33	oxlaju xka’k’aal
+76	waqlaju xkaak’aal
+105	oob’ xwaqk’aal
+191	junlaju ro’tuuk
+343	oxib’ xwaqxaqlajuk’aal
+400	o’q’ob’
+800	kab’o’q’ob’
+1200	oxo’q’ob’
+1600	kaaho’q’ob’
+2000	o’o’q’ob’
+2400	waqo’q’ob’
+2800	wuqo’q’ob’
+3200	waqxaqo’q’ob’
+3600	b’eleeho’q’ob’
+4000	lajeeho’q’ob’
+4400	junlaju o’q’ob’
+4800	kab’laju o’q’ob’
+5200	oxlaju o’q’ob’
+5600	kaalaju o’q’ob’
+6000	o’laju o’q’ob’
+6400	waqlaju o’q’ob’
+6800	wuqlaju o’q’ob’
+7200	waqxaqlaju o’q’ob’
+7600	b’eleelaju o’q’ob’
+8000	jun chuy
+801	jun roxo’q’ob’
+2353	oxlaju xwaqxaqlajuk’aal xwaqo’q’ob’
+381	jun ro’q’ob’
+1584	kaahib’ ro’q’ob’ xkaaho’q’ob’
+7634	kaalaju xka’k’aal xchuy
+8692	kab’laju ro’lajuk’aal xka’o’q’ob’ xka’chuy
