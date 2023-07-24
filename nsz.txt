@@ -20,3 +20,17 @@
 30: sapʼyjimmaacam;
 40: cyyjimmaacaw;
 50: maawykymmaacam;
+
+%hill-nisenan-dictionary:
+1: wyk;
+2: pe·n;
+3: sa-;
+4: c̓y·j;
+5: ma·-wyk;
+6: tym-bo;
+7: to-p̓yj;
+8: pe·nc̓y·j;
+9: peliˀo;
+10: ma·-c̓am;
+20: wyk-ta·pa;
+1000: lu·ˀáwa;
