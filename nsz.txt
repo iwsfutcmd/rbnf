@@ -1,0 +1,22 @@
+%spellout-numbering:
+1: wyttee;
+2: peen;
+3: sapʼyj;
+4: cyyj;
+5: maawyk;
+6: tymbo;
+7: topʼyj;
+8: peencyyj;
+9: peliʼo;
+10: maacam;
+20: wyttaapan;
+30: wyttaapanamaacam;
+40: peenhaapa;
+50: peenhaapanamaacam;
+60: wapʼyjhaapa;
+
+%decimal:
+20: peenimmaacam;
+30: sapʼyjimmaacam;
+40: cyyjimmaacaw;
+50: maawykymmaacam;
