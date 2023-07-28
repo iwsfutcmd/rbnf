@@ -38,5 +38,21 @@
 9: juov;
 10: =%set-a=;
 
+%spellout-short:
+=%spellout-numbering=;
+110: baeqv->%%short>;
+111: =%spellout-numbering=;
+120: baeqv->%%short>;
+121: =%spellout-numbering=;
+
+%%short:
+=%set-b=;
+10: <<;
+100: <<;
+1000: <<;
+10000: <<;
+100000: <<;
+
+
 %spellout-ordinal:
 da'=%set-b=;
