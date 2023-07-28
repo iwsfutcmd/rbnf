@@ -1,0 +1,42 @@
+%spellout-numbering:
+=%set-a=;
+
+%set-a:
+0: lengh;
+1: yietc;
+2: i;
+3: buo;
+4: biei;
+5: biaa;
+6: juqv;
+7: siec;
+8: hietc;
+9: ndhuoh;
+10: ziepc[ >%set-b>];
+20: nyic ziepc[ >%set-b>];
+30: faa-ziepc[ >%set-b>];
+40: <%set-b< ziepc[ >%set-b>];
+100: yietv-baeqv[ >>];
+200: nyic baeqv[ >>];
+300: faam-baeqv[ >>];
+400: <%set-b< baeqv[ >>];
+1000: << cin[ >>];
+10000: << waanc[ >>];
+100000: << sinx[ >>];
+1000000: << ciux[ >>];
+
+%set-b:
+0: lengh;
+1: yietv;
+2: nyeic;
+3: faam;
+4: feix;
+5: hmz;
+6: luoqc;
+7: cietv;
+8: betv;
+9: juov;
+10: =%set-a=;
+
+%spellout-ordinal:
+da'=%set-b=;
