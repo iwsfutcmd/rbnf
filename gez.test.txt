@@ -1,0 +1,3 @@
+120	ምእተ፡ወዕሥራ	%spellout-accusative-masculine
+1100	ዐሠርቱ፡ወአሐዱ፡ምእት	%spellout-masculine
+1100	ዐሥሩ፡ወአሐቲ፡ምእት	%spellout-feminine

@@ -33,9 +33,12 @@ def run_test(locale):
     rbnf = icu.RuleBasedNumberFormat(open(f"{locale}.txt").read())
     tests = [line.strip().split("\t") for line in open(f"{locale}.test.txt").readlines()]
     failures = []
-    for inp, expected in tests:
+    for test in tests:
+        if len(test) == 2:
+            test.append("")
+        inp, expected, ruleset = test
         n = int(inp)
-        out = rbnf.format(n)
+        out = rbnf.format(n, ruleset) if ruleset else rbnf.format(n)
         if out != expected:
             failures.append((n, out, expected))
     return failures
