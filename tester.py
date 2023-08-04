@@ -40,5 +40,5 @@ def run_test(locale):
         n = int(inp)
         out = rbnf.format(n, ruleset) if ruleset else rbnf.format(n)
         if out != expected:
-            failures.append((n, out, expected))
+            failures.append((n, ruleset, out, expected))
     return failures

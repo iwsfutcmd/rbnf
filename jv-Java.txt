@@ -1,0 +1,156 @@
+%spellout-numbering:
+=%spellout-ngoko=;
+
+%%short-ngoko:
+1: ꦱꦼ;
+2: ꦫꦺꦴ;
+3: ꦠꦼꦭꦸ;
+4: ꦥꦠ꧀;
+5: ꦭꦶꦩ;
+6: ꦤꦼꦩ꧀;
+7: ꦥꦶꦠꦸ;
+8: ꦮꦺꦴꦭꦸ;
+9: ꦱꦔ;
+
+%%long-ngoko:
+1: ꦱꦶꦗꦶ;
+2: ꦭꦺꦴꦫꦺꦴ;
+3: =%%short-ngoko=;
+4: ꦥꦥꦠ꧀;
+5: =%%short-ngoko=;
+6: ꦤꦼꦩ꧀;
+7: =%%short-ngoko=;
+
+%%large-counter-ngoko:
+1: ꦱ;
+2: =%spellout-counter-ngoko=;
+
+%spellout-ngoko:
+x.x: <<ꦠꦶꦠꦶꦏ꧀>>;
+0: ꦤꦺꦴꦭ꧀;
+1: =%%long-ngoko=;
+6: ꦲꦼ=%%long-ngoko=;
+7: =%%long-ngoko=;
+10: ꦱꦼꦥꦸꦭꦸꦃ;
+11: >%%short-ngoko>ꦮꦼꦭꦱ꧀;
+12: >%%short-ngoko>ꦭꦱ꧀;
+14: >%%short-ngoko>ꦧꦼꦭꦱ꧀;
+15: >%%short-ngoko>ꦭꦱ꧀;
+16: >%%short-ngoko>ꦧꦼꦭꦱ꧀;
+17: >%%short-ngoko>ꦭꦱ꧀;
+20: <%spellout-counter-ngoko<ꦥꦸꦭꦸꦃ;
+21: >%%short-ngoko>ꦭꦶꦏꦸꦂ;
+25: ꦱꦼꦭꦮꦺ;
+26: >%%short-ngoko>ꦭꦶꦏꦸꦂ;
+30: <%spellout-counter-ngoko<ꦥꦸꦭꦸꦃ[>%%long-ngoko>];
+50: ꦱꦺꦏꦼꦠ꧀[>%%long-ngoko>];
+60: ꦱꦼꦮꦶꦢꦏ꧀[>%%long-ngoko>];
+70: <%spellout-counter-ngoko<ꦥꦸꦭꦸꦃ[>%%long-ngoko>];
+100: ꦱꦠꦸꦱ꧀[>>];
+200: <%%large-counter-ngoko<ꦲꦠꦸꦱ꧀[>>];
+1000: ꦱꦺꦮꦸ[>>];
+2000: <%%large-counter-ngoko<ꦲꦺꦮꦸ[>>];
+1000000: <%%large-counter-ngoko<ꦪꦸꦠ[>>];
+1000000000: <%%large-counter-ngoko<ꦒꦸꦭ꧀ꦩ[>>];
+1000000000000: <%%large-counter-ngoko<ꦏꦶꦂꦤ[>>];
+
+%spellout-traditional-ngoko:
+0: =%spellout-ngoko=;
+10000: <%%large-counter-ngoko<ꦭꦼꦏ꧀ꦱ[ >>];
+100000: <%%large-counter-ngoko<ꦏꦼꦛꦶ[>>];
+1000000: <%%large-counter-ngoko<ꦪꦸꦠ[>>];
+10000000: <%%large-counter-ngoko<ꦮꦼꦤ꧀ꦢꦿ[>>];
+100000000: <%%large-counter-ngoko<ꦧꦫ[>>];
+1000000000: <%%large-counter-ngoko<ꦒꦸꦭ꧀ꦩ[>>];
+10000000000: <%%large-counter-ngoko<ꦕꦩꦸ[>>];
+100000000000: <%%large-counter-ngoko<ꦮꦸꦂꦢ[>>];
+1000000000000: <%%large-counter-ngoko<ꦏꦶꦂꦤ[>>];
+
+%spellout-counter-ngoko:
+1: ꦱ;
+2: =%%short-ngoko=ꦁ;
+4: ꦥꦠꦁ;
+5: =%%short-ngoko=ꦁ;
+6: =%%short-ngoko=;
+7: =%%short-ngoko=ꦁ;
+10: =%spellout-ngoko=;
+
+%spellout-ordinal-ngoko:
+1: ꦱꦼꦥꦶꦱꦤ꧀;
+2: ꦥꦶꦁꦥꦶꦤ꧀ꦢꦺꦴ;
+3: ꦥꦶꦁ=%spellout-ngoko=;
+
+%spellout-counting-ngoko:
+1: ꦗꦶ;
+2: ꦫꦺꦴ;
+3: ꦭꦸ;
+4: ꦥꦠ꧀;
+5: ꦩ;
+6: ꦤꦼꦩ꧀;
+7: =%spellout-ngoko=;
+
+%%short-krama:
+1: ꦱꦼ;
+2: ꦏꦭꦶꦃ;
+3: ꦠꦶꦒ;
+4: ꦏꦮꦤ꧀;
+5: ꦒꦁꦱꦭ꧀;
+6: =%%short-ngoko=;
+
+%%ones-krama:
+1: ꦱꦼꦠꦸꦁꦒꦭ꧀;
+2: =%%short-krama=;
+4: ꦱꦼ=%%short-krama=;
+5: =%%short-krama=;
+
+%spellout-krama:
+x.x: <<ꦠꦶꦠꦶꦏ꧀>>;
+0: ꦤꦺꦴꦭ꧀;
+1: =%%ones-krama=;
+6: ꦲꦼ=%%ones-krama=;
+7: =%%ones-krama=;
+10: <%%short-krama<ꦢꦱ;
+11: >%%short-krama>ꦮꦼꦭꦱ꧀;
+16: >%%short-krama>ꦧꦼꦭꦱ꧀;
+17: >%%short-krama>ꦭꦱ꧀;
+20: <%spellout-counter-krama<ꦢꦱ;
+21: >%%short-krama>ꦭꦶꦏꦸꦂ;
+25: ꦱꦼꦭꦁꦏꦸꦁ;
+26: >%%short-krama>ꦭꦶꦏꦸꦂ;
+30: <%spellout-counter-krama<ꦢꦱ[>%%ones-krama>];
+40: <%%short-krama<ꦢꦱ[>%%ones-krama>];
+50: ꦱꦺꦏꦼꦠ꧀[>%%ones-krama>];
+60: ꦱꦼꦮꦶꦢꦏ꧀[>%%ones-krama>];
+70: <%spellout-counter-krama<ꦢꦱ[>%%ones-krama>];
+100: <%spellout-counter-krama<ꦲꦠꦸꦱ꧀[>>];
+1000: <%spellout-counter-krama<ꦲꦺꦮꦸ[>>];
+1000000: <%spellout-counter-krama<ꦪꦸꦠ[>>];
+1000000000: <%spellout-counter-krama<ꦒꦸꦭ꧀ꦩ[>>];
+1000000000000: <%spellout-counter-krama<ꦏꦶꦂꦤ[>>];
+
+%spellout-traditional-krama:
+0: =%spellout-krama=;
+10000: <%spellout-counter-krama<ꦭꦏ꧀ꦱ[>>];
+100000: <%spellout-counter-krama<ꦏꦼꦛꦶ[>>];
+1000000: <%spellout-counter-krama<ꦪꦸꦠ[>>];
+10000000: <%spellout-counter-krama<ꦮꦼꦤ꧀ꦢꦿ[>>];
+100000000: <%spellout-counter-krama<ꦧꦫ[>>];
+1000000000: <%spellout-counter-krama<ꦒꦸꦭ꧀ꦩ[>>];
+10000000000: <%spellout-counter-krama<ꦕꦩꦸ[>>];
+100000000000: <%spellout-counter-krama<ꦮꦸꦂꦢ[>>];
+1000000000000: <%spellout-counter-krama<ꦏꦶꦂꦤ[>>];
+
+%spellout-counter-krama:
+1: =%%ones-krama=;
+3: =%%ones-krama=ꦁ;
+4: =%%ones-krama=;
+7: =%%ones-krama=ꦁ;
+10: =%spellout-krama=;
+
+%spellout-ordinal-krama:
+1: ꦱꦥꦶꦱꦤ꧀;
+2: ꦠꦥꦶꦁ=%spellout-krama=;
+
+%spellout-counting-krama:
+1: =%spellout-krama=;
+
