@@ -1,0 +1,214 @@
+0	nol	%spellout-krama
+1	setunggal	%spellout-krama
+2	kalih	%spellout-krama
+3	tiga	%spellout-krama
+4	sekawan	%spellout-krama
+5	gangsal	%spellout-krama
+6	enem	%spellout-krama
+7	pitu	%spellout-krama
+8	wolu	%spellout-krama
+9	sanga	%spellout-krama
+10	sedasa	%spellout-krama
+11	sewelas	%spellout-krama
+12	kalih welas	%spellout-krama
+13	tiga welas	%spellout-krama
+14	kawan welas	%spellout-krama
+15	gangsal welas	%spellout-krama
+16	nembelas	%spellout-krama
+17	pitulas	%spellout-krama
+18	wolulas	%spellout-krama
+19	sangalas	%spellout-krama
+20	kalih dasa	%spellout-krama
+21	selikur	%spellout-krama
+22	kalihlikur	%spellout-krama
+23	tigalikur	%spellout-krama
+24	kawanlikur	%spellout-krama
+25	selangkung	%spellout-krama
+26	nemlikur	%spellout-krama
+27	pitulikur	%spellout-krama
+28	wolulikur	%spellout-krama
+29	sangalikur	%spellout-krama
+30	tigang dasa	%spellout-krama
+31	tigang dasa setunggal	%spellout-krama
+32	tigang dasa kalih	%spellout-krama
+40	kawan dasa	%spellout-krama
+50	sèket	%spellout-krama
+60	sewidak	%spellout-krama
+70	pitung dasa	%spellout-krama
+80	wolung dasa	%spellout-krama
+90	sangang dasa	%spellout-krama
+98	sangang dasa wolu	%spellout-krama
+99	sangang dasa sanga	%spellout-krama
+100	setunggal atus	%spellout-krama
+200	kalih atus	%spellout-krama
+300	tigang atus	%spellout-krama
+400	sekawan atus	%spellout-krama
+500	gangsal atus	%spellout-krama
+999	sangang atus sangang dasa sanga	%spellout-krama
+1000	setunggal èwu	%spellout-krama
+2000	kalih èwu	%spellout-krama
+2008	kalih èwu wolu	%spellout-krama
+5000	gangsal èwu	%spellout-krama
+7500	pitung èwu gangsal atus	%spellout-krama
+9999	sangang èwu sangang atus sangang dasa sanga	%spellout-krama
+10000	sedasa èwu	%spellout-krama
+12000	kalih welas èwu	%spellout-krama
+25000	selangkung èwu	%spellout-krama
+50000	sèket èwu	%spellout-krama
+99999	sangang dasa sanga èwu sangang atus sangang dasa sanga	%spellout-krama
+100000	setunggal atus èwu	%spellout-krama
+500000	gangsal atus èwu	%spellout-krama
+875110	wolung atus pitung dasa gangsal èwu setunggal atus sedasa	%spellout-krama
+999999	sangang atus sangang dasa sanga èwu sangang atus sangang dasa sanga	%spellout-krama
+1000000	setunggal yuta	%spellout-krama
+5000000	gangsal yuta	%spellout-krama
+7859312	pitung yuta wolung atus sèket sanga èwu tigang atus kalih welas	%spellout-krama
+9999999	sangang yuta sangang atus sangang dasa sanga èwu sangang atus sangang dasa sanga	%spellout-krama
+1	siji	%spellout-ngoko
+2	loro	%spellout-ngoko
+3	telu	%spellout-ngoko
+4	papat	%spellout-ngoko
+5	lima	%spellout-ngoko
+6	enem	%spellout-ngoko
+7	pitu	%spellout-ngoko
+8	wolu	%spellout-ngoko
+9	sanga	%spellout-ngoko
+10	sepuluh	%spellout-ngoko
+11	sewelas	%spellout-ngoko
+12	rolas	%spellout-ngoko
+13	telulas	%spellout-ngoko
+14	patbelas	%spellout-ngoko
+15	limalas	%spellout-ngoko
+16	nembelas	%spellout-ngoko
+17	pitulas	%spellout-ngoko
+18	wolulas	%spellout-ngoko
+19	sangalas	%spellout-ngoko
+20	rong puluh	%spellout-ngoko
+21	selikur	%spellout-ngoko
+22	rolikur	%spellout-ngoko
+23	telulikur	%spellout-ngoko
+24	patlikur	%spellout-ngoko
+25	selawé	%spellout-ngoko
+26	nemlikur	%spellout-ngoko
+27	pitulikur	%spellout-ngoko
+28	wolulikur	%spellout-ngoko
+29	sangalikur	%spellout-ngoko
+30	telung puluh	%spellout-ngoko
+40	patang puluh	%spellout-ngoko
+50	sèket	%spellout-ngoko
+60	sewidak	%spellout-ngoko
+70	pitung puluh	%spellout-ngoko
+80	wolung puluh	%spellout-ngoko
+90	sangang puluh	%spellout-ngoko
+99	sangang puluh sanga	%spellout-ngoko
+100	satus	%spellout-ngoko
+200	rong atus	%spellout-ngoko
+300	telung atus	%spellout-ngoko
+500	limang atus	%spellout-ngoko
+1000	sèwu	%spellout-ngoko
+5000	limang èwu	%spellout-ngoko
+1000000	sayuta	%spellout-ngoko
+11	sewelas	%spellout-ngoko
+11	sewelas	%spellout-krama
+12	rolas	%spellout-ngoko
+12	kalih welas	%spellout-krama
+13	telulas	%spellout-ngoko
+13	tiga welas	%spellout-krama
+14	patbelas	%spellout-ngoko
+14	kawan welas	%spellout-krama
+15	limalas	%spellout-ngoko
+15	gangsal welas	%spellout-krama
+16	nembelas	%spellout-ngoko
+16	nembelas	%spellout-krama
+17	pitulas	%spellout-ngoko
+17	pitulas	%spellout-krama
+18	wolulas	%spellout-ngoko
+18	wolulas	%spellout-krama
+19	sangalas	%spellout-ngoko
+19	sangalas	%spellout-krama
+20	rong puluh	%spellout-ngoko
+20	kalih dasa	%spellout-krama
+21	selikur	%spellout-ngoko
+21	selikur	%spellout-krama
+22	rolikur	%spellout-ngoko
+22	kalihlikur	%spellout-krama
+23	telulikur	%spellout-ngoko
+23	tigalikur	%spellout-krama
+24	patlikur	%spellout-ngoko
+24	kawanlikur	%spellout-krama
+25	selawé	%spellout-ngoko
+25	selangkung	%spellout-krama
+26	nemlikur	%spellout-ngoko
+26	nemlikur	%spellout-krama
+30	telung puluh	%spellout-ngoko
+30	tigang dasa	%spellout-krama
+31	telung puluh siji	%spellout-ngoko
+31	tigang dasa setunggal	%spellout-krama
+32	telung puluh loro	%spellout-ngoko
+32	tigang dasa kalih	%spellout-krama
+40	patang puluh	%spellout-ngoko
+40	kawan dasa	%spellout-krama
+41	patang puluh siji	%spellout-ngoko
+41	kawan dasa setunggal	%spellout-krama
+42	patang puluh loro	%spellout-ngoko
+42	kawan dasa kalih	%spellout-krama
+50	sèket	%spellout-ngoko
+50	sèket	%spellout-krama
+51	sèket siji	%spellout-ngoko
+51	sèket setunggal	%spellout-krama
+52	sèket loro	%spellout-ngoko
+52	sèket kalih	%spellout-krama
+60	sewidak	%spellout-ngoko
+60	sewidak	%spellout-krama
+61	sewidak siji	%spellout-ngoko
+61	sewidak setunggal	%spellout-krama
+62	sewidak loro	%spellout-ngoko
+62	sewidak kalih	%spellout-krama
+70	pitung puluh	%spellout-ngoko
+70	pitung dasa	%spellout-krama
+80	wolung puluh	%spellout-ngoko
+80	wolung dasa	%spellout-krama
+90	sangang puluh	%spellout-ngoko
+90	sangang dasa	%spellout-krama
+100	satus	%spellout-ngoko
+100	setunggal atus	%spellout-krama
+101	satus siji	%spellout-ngoko
+101	setunggal atus setunggal	%spellout-krama
+102	satus loro	%spellout-ngoko
+102	setunggal atus kalih	%spellout-krama
+120	satus rong puluh	%spellout-ngoko
+120	setunggal atus kalih dasa	%spellout-krama
+121	satus selikur	%spellout-ngoko
+121	setunggal atus selikur	%spellout-krama
+200	rong atus	%spellout-ngoko
+200	kalih atus	%spellout-krama
+500	limang atus	%spellout-ngoko
+500	gangsal atus	%spellout-krama
+1000	sèwu	%spellout-ngoko
+1000	setunggal èwu	%spellout-krama
+1001	sèwu siji	%spellout-ngoko
+1001	setunggal èwu setunggal	%spellout-krama
+1002	sèwu loro	%spellout-ngoko
+1002	setunggal èwu kalih	%spellout-krama
+1500	sèwu limang atus	%spellout-ngoko
+1500	setunggal èwu gangsal atus	%spellout-krama
+1520	sèwu limang atus rong puluh	%spellout-ngoko
+1520	setunggal èwu gangsal atus kalih dasa	%spellout-krama
+1550	sèwu limang atus sèket	%spellout-ngoko
+1550	setunggal èwu gangsal atus sèket	%spellout-krama
+1551	sèwu limang atus sèket siji	%spellout-ngoko
+1551	setunggal èwu gangsal atus sèket setunggal	%spellout-krama
+2000	rong èwu	%spellout-ngoko
+2000	kalih èwu	%spellout-krama
+5000	limang èwu	%spellout-ngoko
+5000	gangsal èwu	%spellout-krama
+10000	sepuluh èwu	%spellout-ngoko
+10000	sedasa èwu	%spellout-krama
+100000	satus èwu	%spellout-ngoko
+100000	setunggal atus èwu	%spellout-krama
+500000	limang atus èwu	%spellout-ngoko
+500000	gangsal atus èwu	%spellout-krama
+1000000	sayuta	%spellout-ngoko
+1000000	setunggal yuta	%spellout-krama
+1562155	sayuta limang atus sewidak loro èwu satus sèket lima	%spellout-ngoko
+1562155	setunggal yuta gangsal atus sewidak kalih èwu setunggal atus sèket gangsal	%spellout-krama

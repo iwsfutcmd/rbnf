@@ -45,7 +45,7 @@
 120: baeqv->%%short>;
 121: =%spellout-numbering=;
 
-%%short:
+%%short-WIP:
 =%set-b=;
 10: <<;
 100: <<;

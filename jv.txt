@@ -1,0 +1,157 @@
+%spellout-numbering:
+=%spellout-ngoko=;
+
+%%short-ngoko:
+1: se;
+2: ro;
+3: telu;
+4: pat;
+5: lima;
+6: nem;
+7: pitu;
+8: wolu;
+9: sanga;
+
+%%long-ngoko:
+1: siji;
+2: loro;
+3: =%%short-ngoko=;
+4: papat;
+5: =%%short-ngoko=;
+6: nem;
+7: =%%short-ngoko=;
+
+%%large-counter-ngoko:
+1: sa;
+2: =%spellout-counter-ngoko= ;
+
+%spellout-ngoko:
+x.x: << titik >>;
+0: nol;
+1: =%%long-ngoko=;
+6: e=%%long-ngoko=;
+7: =%%long-ngoko=;
+10: sepuluh;
+11: >%%short-ngoko>welas;
+12: >%%short-ngoko>las;
+14: >%%short-ngoko>belas;
+15: >%%short-ngoko>las;
+16: >%%short-ngoko>belas;
+17: >%%short-ngoko>las;
+20: <%spellout-counter-ngoko< puluh;
+21: >%%short-ngoko>likur;
+25: selawé;
+26: >%%short-ngoko>likur;
+30: <%spellout-counter-ngoko< puluh[ >%%long-ngoko>];
+50: sèket[ >%%long-ngoko>];
+60: sewidak[ >%%long-ngoko>];
+70: <%spellout-counter-ngoko< puluh[ >%%long-ngoko>];
+100: satus[ >>];
+200: <%%large-counter-ngoko<atus[ >>];
+1000: sèwu[ >>];
+2000: <%%large-counter-ngoko<èwu[ >>];
+1000000: <%%large-counter-ngoko<yuta[ >>];
+1000000000: <%%large-counter-ngoko<gulma[ >>];
+1000000000000: <%%large-counter-ngoko<kirna[ >>];
+
+%spellout-traditional-ngoko:
+0: =%spellout-ngoko=;
+10000: <%%large-counter-ngoko<leksa[ >>];
+100000: <%%large-counter-ngoko<kethi[ >>];
+1000000: <%%large-counter-ngoko<yuta[ >>];
+10000000: <%%large-counter-ngoko<wendra[ >>];
+100000000: <%%large-counter-ngoko<bara[ >>];
+1000000000: <%%large-counter-ngoko<gulma[ >>];
+10000000000: <%%large-counter-ngoko<camu[ >>];
+100000000000: <%%large-counter-ngoko<wurda[ >>];
+1000000000000: <%%large-counter-ngoko<kirna[ >>];
+
+%spellout-counter-ngoko:
+1: sa;
+2: =%%short-ngoko=ng;
+4: =%%short-ngoko=ang;
+5: =%%short-ngoko=ng;
+6: =%%short-ngoko=;
+7: =%%short-ngoko=ng;
+10: =%spellout-ngoko=;
+
+%spellout-ordinal-ngoko:
+1: sepisan;
+2: ping pindho;
+3: ping =%spellout-ngoko=;
+
+%spellout-counting-ngoko:
+1: ji;
+2: ro;
+3: lu;
+4: pat;
+5: ma;
+6: nem;
+7: =%spellout-ngoko=;
+
+%%short-krama:
+1: se;
+2: kalih;
+3: tiga;
+4: kawan;
+5: gangsal;
+6: =%%short-ngoko=;
+
+%%ones-krama:
+1: setunggal;
+2: =%%short-krama=;
+4: se=%%short-krama=;
+5: =%%short-krama=;
+
+%spellout-krama:
+x.x: << titik >>;
+0: nol;
+1: =%%ones-krama=;
+6: e=%%ones-krama=;
+7: =%%ones-krama=;
+10: <%%short-krama<dasa;
+11: >%%short-krama>welas;
+12: >%%short-krama> welas;
+16: >%%short-krama>belas;
+17: >%%short-krama>las;
+20: <%spellout-counter-krama< dasa;
+21: >%%short-krama>likur;
+25: selangkung;
+26: >%%short-krama>likur;
+30: <%spellout-counter-krama< dasa[ >%%ones-krama>];
+40: <%%short-krama< dasa[ >%%ones-krama>];
+50: sèket[ >%%ones-krama>];
+60: sewidak[ >%%ones-krama>];
+70: <%spellout-counter-krama< dasa[ >%%ones-krama>];
+100: <%spellout-counter-krama< atus[ >>];
+1000: <%spellout-counter-krama< èwu[ >>];
+1000000: <%spellout-counter-krama< yuta[ >>];
+1000000000: <%spellout-counter-krama< gulma[ >>];
+1000000000000: <%spellout-counter-krama< kirna[ >>];
+
+%spellout-traditional-krama:
+0: =%spellout-krama=;
+10000: <%spellout-counter-krama< laksa[ >>];
+100000: <%spellout-counter-krama< kethi[ >>];
+1000000: <%spellout-counter-krama< yuta[ >>];
+10000000: <%spellout-counter-krama< wendra[ >>];
+100000000: <%spellout-counter-krama< bara[ >>];
+1000000000: <%spellout-counter-krama< gulma[ >>];
+10000000000: <%spellout-counter-krama< camu[ >>];
+100000000000: <%spellout-counter-krama< wurda[ >>];
+1000000000000: <%spellout-counter-krama< kirna[ >>];
+
+%spellout-counter-krama:
+1: =%%ones-krama=;
+3: =%%ones-krama=ng;
+4: =%%ones-krama=;
+7: =%%ones-krama=ng;
+10: =%spellout-krama=;
+
+%spellout-ordinal-krama:
+1: sepisan;
+2: kaping =%spellout-krama=;
+
+%spellout-counting-krama:
+1: =%spellout-krama=;
+
