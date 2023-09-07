@@ -1,0 +1,30 @@
+%spellout-numbering:
+=%%long=;
+
+%spellout-non-human:
+=%%short=;
+
+%spellout-human:
+1: nga=%%short=;
+
+%%long:
+1: romoi;
+2: romdidi;
+3: raange;
+4: raha;
+5: romtoha;
+6: rara;
+7: tomdii;
+8: tofkange;
+9: sio;
+10: nyagi <%%short<[ se >>];
+100: ratu <%%short<[ se >>];
+1000: cala <%%short<[ se >>];
+1000000: juta <%%short<[ se >>];
+
+%%short:
+1: moi;
+2: mdidi;
+3: =%%long=;
+5: mtoha;
+6: =%%long=;
